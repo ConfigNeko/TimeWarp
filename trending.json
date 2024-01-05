@@ -1,16 +1,52 @@
 {
   "trending": [
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/1.mp4",
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/2.mp4",
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/3.mp4",
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/4.mp4",
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/5.mp4",
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/6.mp4",
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/7.mp4",
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/8.mp4",
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/9.mp4",
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/10.mp4",
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/11.mp4",
-    "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/12.mp4"
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_1.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/1.mp4"
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_2.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/2.mp4"
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_3.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/3.mp4"
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_4.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/4.mp4"
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_5.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/5.mp4"
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_6.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/6.mp4"
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_7.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/7.mp4"
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_8.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/8.mp4"
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_9.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/9.mp4"
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_10.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/10.mp4"
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_11.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/11.mp4"
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/thumb/thumb_12.png",
+      "videoUrl": "https://raw.githubusercontent.com/ConfigNeko/TimeWarp/main/videotrending/12.mp4"
+    }
   ]
 }
